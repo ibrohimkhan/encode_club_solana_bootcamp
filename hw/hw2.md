@@ -1,16 +1,16 @@
-###Q1. How many validators are there currently?
+Q1. How many validators are there currently?
 A1: According to analytics.solscan.io there are 2,281 validators at present time, 26 Oct 2022.
 
-###Q2: What is special about [this](https://explorer.solana.com/block/0) block?
+Q2: What is special about [this](https://explorer.solana.com/block/0) block?
 A2: It’s genesis block, the first block added to blockchain
 
-###Q3: What is special about [this](https://explorer.solana.com/address/1nc1nerator11111111111111111111111111111111) address?
+Q3: What is special about [this](https://explorer.solana.com/address/1nc1nerator11111111111111111111111111111111) address?
 A3: According to [this](https://docs.rs/solana-program/1.14.6/solana_program/index.html) doc incinerator is a designated address for burning lamports. Here is more [info](https://docs.rs/solana-program/1.14.6/solana_program/incinerator/index.html).
 
-###Q4: What is this [transaction](https://explorer.solana.com/tx/45pGoC4Rr3fJ1TKrsiRkhHRbdUeX7633XAGVec6XzVdpRbzQgHhe6ZC6Uq164MPWtiqMg7wCkC6Wy3jy2BqsDEKf) doing? 
+Q4: What is this [transaction](https://explorer.solana.com/tx/45pGoC4Rr3fJ1TKrsiRkhHRbdUeX7633XAGVec6XzVdpRbzQgHhe6ZC6Uq164MPWtiqMg7wCkC6Wy3jy2BqsDEKf) doing? 
 A4: Transferring 11,365,066.99 SOL from account 3o6xgkJ9sTmDeQWyfj3sxwon18fXJB9PV5LDc8sfgR4a to account 1nc1nerator11111111111111111111111111111111, so it burns those SOLs.
 
-###Q5: What is the largest account you can find?
+Q5: What is the largest account you can find?
 A5: 
 Hacker’s wallet 1: Htp9MGP8Tig923ZFY7Qf2zzbMUmYneFRAhSp7vSg4wxV, this account is in blacklist (at present time, 26.10.2022). 
 	SOL Balance: 25,408.94 SOL ($797,078.59)
@@ -19,7 +19,7 @@ Hacker’s wallet 1: Htp9MGP8Tig923ZFY7Qf2zzbMUmYneFRAhSp7vSg4wxV, this account 
 Token account: 9XhJANMN4r23xY5PZ7rjpR1CXfiKBm7hZPNqruCDNU3h
 	Balance: 2,336,610.87 USDC ($2,338,947.48)
 
-###Q6: What advantages will the end user see when using Solana compared to other blockchains?
+Q6: What advantages will the end user see when using Solana compared to other blockchains?
 A6: 
   1. Integration with other platforms, such as CEX and DEX
   2. Wallets
