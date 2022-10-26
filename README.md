@@ -1,2 +1,3 @@
-# encode_club_solana_bootcamp
-Encode Club Solana Bootcamp
+### Encode Club Solana Bootcamp
+
+Advancing my knowledge in Rust and Solana through Encode Club Bootcamp
