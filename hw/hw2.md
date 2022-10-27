@@ -8,7 +8,7 @@
 - According to [this](https://docs.rs/solana-program/1.14.6/solana_program/index.html) doc incinerator is a designated address for burning lamports. Here is more [info](https://docs.rs/solana-program/1.14.6/solana_program/incinerator/index.html).
 
 ### Q4: What is this [transaction](https://explorer.solana.com/tx/45pGoC4Rr3fJ1TKrsiRkhHRbdUeX7633XAGVec6XzVdpRbzQgHhe6ZC6Uq164MPWtiqMg7wCkC6Wy3jy2BqsDEKf) doing? 
-- Transferring 11,365,066.99 SOL from account 3o6xgkJ9sTmDeQWyfj3sxwon18fXJB9PV5LDc8sfgR4a to account 1nc1nerator11111111111111111111111111111111, so it burns those SOLs.
+- Transferring 11,365,066.99 SOL from account 3o6xgkJ9sTmDeQWyfj3sxwon18fXJB9PV5LDc8sfgR4a to account 1nc1nerator11111111111111111111111111111111, so it may burn those SOLs. But the Timestamp field is Unavailable which means that the transaction's block was not confirmed in the network.  
 
 ### Q5: What is the largest account you can find?
 - Hacker’s wallet 1: Htp9MGP8Tig923ZFY7Qf2zzbMUmYneFRAhSp7vSg4wxV, this account is in blacklist (at present time, 26.10.2022). 
